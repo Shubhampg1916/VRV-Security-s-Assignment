@@ -1,6 +1,5 @@
 # VRV-Security-s-Assignment
-Log Analysis Script
-**This Python script processes a log file (sample.log), analyzes it for:**
+# This Python script processes a log file (sample.log), analyzes it for:
       IP Request Counts: Tracks how many requests each IP address made.
       Most Accessed Endpoint: Identifies the most frequently accessed resource (e.g., /login, /home).
       Suspicious Activity: Detects IPs with too many failed login attempts.
